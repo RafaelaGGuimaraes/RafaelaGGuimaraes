@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil da Rafaela Gomes Guimarães 😁
 
  <div>
    <a href="https://github.com/RafaelaGGuimaraes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaGGuimaraes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaGGuimaraes&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaGGuimaraes&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaGGuimaraes&layout=compact&langs_count=6&theme=omni"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -13,8 +13,8 @@
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+
+### Pra entrar em contato ou me conhecer melhor me segue nas redes abaixo!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
